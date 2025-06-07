@@ -180,7 +180,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- marcel@btec.ch - Initial work
+- marcel@btec.ai - Initial work
 
 ## 🙏 Acknowledgments
 
